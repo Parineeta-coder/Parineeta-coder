@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parineeta-coder
-- 👀 I’m interested in development
+- 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me parineeta.das11@gmail.com
+- 📫 How to reach me ?? Email: parineeta.das11@gmail.com
 
 <!---
 Parineeta-coder/Parineeta-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
