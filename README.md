@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parineeta-coder
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React
 - 📫 How to reach me ?? Email: parineeta.das11@gmail.com
 
 <!---
