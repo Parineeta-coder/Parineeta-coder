@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parineeta-coder
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning and building tools gor HUMANS!
+- 🌱 I’m currently learning and building tools for HUMANS!
 - 📫 How to reach me ?? Email: parineeta.das11@gmail.com
 
 <!---
